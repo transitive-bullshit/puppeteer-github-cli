@@ -39,6 +39,8 @@ npm install -g puppeteer-github-cli
 
 - [puppeteer-github](https://github-cli.com/transitive-bullshit/puppeteer-github) - Library for this CLI.
 - [puppeteer-email](https://github-cli.com/transitive-bullshit/puppeteer-email) - Email automation driven by headless chrome.
+- [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API.
+- [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
 
 
 ## License
