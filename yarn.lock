@@ -3690,9 +3690,9 @@ punycode@^1.4.1:
   version "1.4.1"
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-1.4.1.tgz#c0d5a63b2718800ad8e1eb0fa5269c84dd41845e"
 
-puppeteer-github@^0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/puppeteer-github/-/puppeteer-github-0.0.2.tgz#dea470731cef49ee43a16d0a5aa2b5c2cc645e33"
+puppeteer-github@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/puppeteer-github/-/puppeteer-github-0.0.3.tgz#92cd43debf06b7a822f6daa6c82186f4b6abf3f2"
   dependencies:
     ow "^0.3.0"
     puppeteer "^1.4.0"

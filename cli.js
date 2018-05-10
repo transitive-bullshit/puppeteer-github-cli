@@ -116,8 +116,6 @@ module.exports = (argv) => {
         await client.signin(user)
         await client.signout()
         await client.close()
-
-        console.log(JSON.stringify(user, null, 2))
       } catch (err) {
         console.error(err)
         process.exit(1)
