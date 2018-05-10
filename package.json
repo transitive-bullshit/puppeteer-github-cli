@@ -26,8 +26,8 @@
     "commander": "^2.15.1",
     "node-compat-require": "^1.0.3",
     "p-retry": "^2.0.0",
-    "puppeteer-email": "^0.0.3",
-    "puppeteer-email-providers": "^0.0.1",
+    "puppeteer-email": "^0.0.4",
+    "puppeteer-email-providers": "^0.0.2",
     "puppeteer-github": "^0.0.3"
   }
 }
