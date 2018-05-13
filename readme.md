@@ -4,13 +4,11 @@
 
 [![NPM](https://img.shields.io/npm/v/puppeteer-github-cli.svg)](https://www.npmjs.com/package/puppeteer-github-cli) [![Build Status](https://travis-ci.com/transitive-bullshit/puppeteer-github-cli.svg?branch=master)](https://travis-ci.com/transitive-bullshit/puppeteer-github-cli) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-
 ## Install
 
 ```bash
 npm install -g puppeteer-github-cli
 ```
-
 
 ## Usage
 
@@ -29,19 +27,18 @@ npm install -g puppeteer-github-cli
 
   Commands:
 
-    signup
+    signup [options]
     signin
+    verify [options]
     signout
 ```
 
-
 ## Related
 
-- [puppeteer-github](https://github-cli.com/transitive-bullshit/puppeteer-github) - Library for this CLI.
-- [puppeteer-email](https://github-cli.com/transitive-bullshit/puppeteer-email) - Email automation driven by headless chrome.
-- [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API.
-- [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
-
+-   [puppeteer-github](https://github-cli.com/transitive-bullshit/puppeteer-github) - Library for this CLI.
+-   [puppeteer-email](https://github-cli.com/transitive-bullshit/puppeteer-email) - Email automation driven by headless chrome.
+-   [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API.
+-   [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
 
 ## License
 

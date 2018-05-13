@@ -6,7 +6,11 @@
   "repository": "transitive-bullshit/puppeteer-github-cli",
   "author": "Travis Fischer <travis@automagical.ai>",
   "license": "MIT",
+  "bin": {
+    "github": "index.js"
+  },
   "scripts": {
+    "docs": "node index.js --help | update-markdown-usage -w readme.md",
     "test": "ava -v && standard"
   },
   "engines": {
@@ -19,7 +23,8 @@
   "devDependencies": {
     "ava": "^0.25.0",
     "execa": "^0.10.0",
-    "standard": "^11.0.0"
+    "standard": "^11.0.0",
+    "update-markdown-usage": "^1.0.0"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
