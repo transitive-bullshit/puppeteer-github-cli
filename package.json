@@ -27,12 +27,8 @@
     "update-markdown-usage": "^1.0.0"
   },
   "dependencies": {
-    "cheerio": "^1.0.0-rc.2",
     "commander": "^2.15.1",
     "node-compat-require": "^1.0.3",
-    "p-retry": "^2.0.0",
-    "puppeteer-email": "^0.0.4",
-    "puppeteer-email-providers": "^0.0.2",
     "puppeteer-github": "^0.0.3"
   }
 }
