@@ -29,6 +29,6 @@
   "dependencies": {
     "commander": "^2.15.1",
     "node-compat-require": "^1.0.3",
-    "puppeteer-github": "^0.0.3"
+    "puppeteer-github": "^0.0.4"
   }
 }
