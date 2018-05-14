@@ -31,8 +31,12 @@ npm install -g puppeteer-github-cli
 
     signup [options]
     signin
-    verify [options]
     signout
+    verify [options]
+    star-package <pkg>
+    unstar-package <pkg>
+    star-repo <repo>
+    unstar-repo <repo>
 ```
 
 ## Related
