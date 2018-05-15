@@ -15,7 +15,7 @@ npm install -g puppeteer-github-cli
 ## Usage
 
 ```bash
-  Usage: index [options] [command]
+  Usage: github [options] [command]
 
   Options:
 
