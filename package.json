@@ -29,6 +29,8 @@
   },
   "dependencies": {
     "commander": "^2.15.1",
+    "csv-parse": "^2.5.0",
+    "ext-name": "^5.0.0",
     "node-compat-require": "^1.0.3",
     "puppeteer-github": "^0.0.4"
   }
